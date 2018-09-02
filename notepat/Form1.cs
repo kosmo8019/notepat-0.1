@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace notepat
 {
-    public partial class Form1 : Form
+    public partial class MainNoteForm : Form
     {
-        public Form1()
+        public MainNoteForm()
         {
             InitializeComponent();
         }
